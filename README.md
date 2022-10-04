@@ -3,8 +3,8 @@
 I am a third-year Computing student at Imperial College London. 
 
 - 🔭 I'm currently working on my software engineering group project. More details coming soon!
-- 🤔 I'm interested in learning how distributed systems work.
-- ⚙️ I have experience with: `.py`, `.java`, `.kt`, `.c`, `.rs`
+- 🤔 I'm interested in distributed systems and program optimisation.
+- ⚙️ I have experience with: `.py`, `.java`, `.kt`, `.c`, `.go`, `.rs`
 - ⚡ I'm mostly active in [Department of Computing Society](https://docsoc.co.uk/), organising [IC Hack 23](https://ichack.org/)
 - ✏️ I also write a [blog](https://www.doc.ic.ac.uk/~kjc20/). Read my most recent post about MapReduce!
 - 😄 Fun fact: I love asian food (particularly chicken katsu curry!)
