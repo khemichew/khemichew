@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**khemichew/khemichew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third-year Computing student at Imperial College London. 
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on my software engineering group project. More details coming soon!
+- 🤔 I'm interested in learning how distributed systems work.
+- ⚙️ I have experience with: `.py`, `.java`, `.kt`, `.c`, `.rs`
+- ⚡ I'm mostly active in [Department of Computing Society](https://docsoc.co.uk/), organising [IC Hack 23](https://ichack.org/)
+- ✏️ I also write a [blog](https://www.doc.ic.ac.uk/~kjc20/). Read my most recent post about MapReduce!
+- 😄 Fun fact: I love asian food (particularly chicken katsu curry!)
+- 📫 How to reach me: khemichew01@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some side projects I have worked on:
+- [MapReduce](https://github.com/khemichew/MapReduce): A distributed framework that crunches datasets and compute results
+by writing a Map and Reduce function
+- [Kumi](https://github.com/khemichew/Kumi): A budget-tracking application and digital card wallet that aims to 
+improve users' shopping experience
+- [m,n,k-game](https://github.com/khemichew/RustCourse/tree/main/tictactoe): A game where a player wins when they have k-in-a-row
+on a m-by-n board. This implementation allows you to play with the AI with optimised behaviour. 
