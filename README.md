@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an incoming fourth-year Computing student at Imperial College London. 
+I am an outgoing fourth-year Computing student at Imperial College London. 
 
 - 🤔 I'm interested in scalable systems and program optimisation.
 - ⚙️ I have experience with: `.cpp`, `.py`, `.java`, `.kt`, `.c`, `.go`, `.rs`
