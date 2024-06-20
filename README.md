@@ -6,7 +6,7 @@ I am an outgoing fourth-year Computing student at Imperial College London.
 - ⚙️ I have experience with: `.cpp`, `.py`, `.cs`, `.java`, `.kt`, `.c`, `.go`, `.rs`, `.sh`, `.dfy`
 - ⚡ I'm mostly active in [Department of Computing Society](https://docsoc.co.uk/), organising [IC Hack 23](https://ichack.org/)
 - ✏️ I also write a [blog](https://www.doc.ic.ac.uk/~kjc20/). Read my most recent post about MapReduce!
-- 📫 How to reach me: khemichew01@gmail.com
+- 📫 How to reach me: LinkedIn!
 
 Some side projects I have worked on:
 - [Multipaxos](https://github.com/khemichew/multipaxos): An implementation of a fault-tolerant protocol that achieves consensus
