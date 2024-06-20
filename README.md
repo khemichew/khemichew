@@ -3,7 +3,7 @@
 I am an outgoing fourth-year Computing student at Imperial College London. 
 
 - 🤔 I'm interested in scalable systems and program optimisation.
-- ⚙️ I have experience with: `.cpp`, `.py`, `.java`, `.kt`, `.c`, `.go`, `.rs`
+- ⚙️ I have experience with: `.cpp`, `.py`, `.cs`, `.java`, `.kt`, `.c`, `.go`, `.rs`, `.sh`, `.dfy`
 - ⚡ I'm mostly active in [Department of Computing Society](https://docsoc.co.uk/), organising [IC Hack 23](https://ichack.org/)
 - ✏️ I also write a [blog](https://www.doc.ic.ac.uk/~kjc20/). Read my most recent post about MapReduce!
 - 📫 How to reach me: khemichew01@gmail.com
