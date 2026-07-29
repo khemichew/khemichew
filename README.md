@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I am an outgoing fourth-year Computing student at Imperial College London. 
+I am a graduate Computing student from Imperial College London. 
 
 - 🤔 I'm interested in scalable systems and program optimisation.
-- ⚙️ I have experience with: `.cpp`, `.py`, `.cs`, `.java`, `.kt`, `.c`, `.go`, `.rs`, `.sh`, `.dfy`
-- ⚡ I'm mostly active in [Department of Computing Society](https://docsoc.co.uk/), organising [IC Hack 23](https://ichack.org/)
-- ✏️ I also write a [blog](https://www.doc.ic.ac.uk/~kjc20/). Read my most recent post about MapReduce!
-- 📫 How to reach me: LinkedIn!
+- ⚙️ I have experience with: `.tsx`,  `.cpp`, `.py`, `.cs`, `.java`, `.kt`, `.c`, `.go`, `.rs`, `.sh`, `.dfy`
+- ⚡ I coordinated the 2023 edition of [IC Hack](https://ichack.org/), the largest student-run hackathon in the UK
+- 📫 How to reach me: LinkedIn
 
 Some side projects I have worked on:
+-[ml](https://github.com/khemichew/ml): Building a transformer from scratch and applying performance engineering principles in the process
 - [Multipaxos](https://github.com/khemichew/multipaxos): An implementation of a fault-tolerant protocol that achieves consensus
 between replicas on multiple values as its state and how the values are ordered
 - [MapReduce](https://github.com/khemichew/MapReduce): A distributed framework that crunches datasets and compute results
