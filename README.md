@@ -17,5 +17,3 @@ by writing a Map and Reduce function
 - [WACC](https://github.com/khemichew/WACC-Compiler): A compiler that converts WACC code into ARM assembly code. 
 - Pintos: A monolithic operating system framework for the 80x86 architecture, complete with multiple selectable priority 
 schedulers, system calls, and virtual memory support
-- [m,n,k-game](https://github.com/khemichew/RustCourse/tree/main/tictactoe): A game where a player wins when they have k-in-a-row
-on a m-by-n board. This implementation allows you to play with the AI with optimised behaviour. 
