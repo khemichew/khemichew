@@ -8,7 +8,8 @@ I am a graduate Computing student from Imperial College London.
 - 📫 How to reach me: LinkedIn
 
 Some side projects I have worked on:
--[ml](https://github.com/khemichew/ml): Building a transformer from scratch and applying performance engineering principles in the process
+- [ml](https://github.com/khemichew/ml): Building a transformer from scratch and applying performance engineering principles in the process
+- [mutate-csharp](https://github.com/khemichew/mutate-csharp): A mutation testing tool in C# designed to improve regression test suite coverage by generating artificial faults
 - [Multipaxos](https://github.com/khemichew/multipaxos): An implementation of a fault-tolerant protocol that achieves consensus
 between replicas on multiple values as its state and how the values are ordered
 - [MapReduce](https://github.com/khemichew/MapReduce): A distributed framework that crunches datasets and compute results
